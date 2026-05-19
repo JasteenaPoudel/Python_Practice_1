@@ -25,3 +25,15 @@ print("Type of Float temperatute is:",type(temp_float))
 print(type(True))
 print(type(5j))
 print(type("Hello"))
+
+# for strings
+# Challenge Tasks
+# Easy
+# Print your name inside quotes.
+# Print a sentence with apostrophe.
+# Create 3-line multiline string.
+# Combine two strings.
+
+print('"name"')
+print("It's a wonderful day")
+

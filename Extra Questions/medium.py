@@ -17,3 +17,8 @@ square= num ** 2
 # square = num * num
 print(f"The square of{num} is{square}")
 
+# Medium
+# Ask user for first and last name then combine.
+# Print formatted bio using f-string.
+# Convert number to string before concatenation.
+# Make a simple “About Me” card.
